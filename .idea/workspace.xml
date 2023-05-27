@@ -1,14 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="27cbf979-e877-4cd8-a4fc-a406173c2a5d" name="Changes" comment="" />
+    <list default="true" id="27cbf979-e877-4cd8-a4fc-a406173c2a5d" name="Changes" comment="Version01">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contatos.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ContatoStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GerenciadorDeContatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMapContatoStorage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contatos.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2QO6FxcfBhsNTidAppbrlFFVc6C" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -17,9 +48,27 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "E:/ZFW Dropbox/Adm ZFW/Pessoal/Engenharia de Software/2° Semestre/Programação Orientada a Objetos - Glauco/Prova_N2-II/GerenciadorDeContatos",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ZFW Dropbox\Adm ZFW\Pessoal\Engenharia de Software\2° Semestre\Programação Orientada a Objetos - Glauco\Prova_N2-II\GerenciadorDeContatos" />
+      <recent name="E:\ZFW Dropbox\Adm ZFW\Pessoal\Engenharia de Software\2° Semestre\Programação Orientada a Objetos - Glauco\Prova_N2-II\GerenciadorDeContatos\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ZFW Dropbox\Adm ZFW\Pessoal\Engenharia de Software\2° Semestre\Programação Orientada a Objetos - Glauco\Prova_N2-II\GerenciadorDeContatos\src" />
+      <recent name="E:\ZFW Dropbox\Adm ZFW\Pessoal\Engenharia de Software\2° Semestre\Programação Orientada a Objetos - Glauco\Prova_N2-II\GerenciadorDeContatos" />
+      <recent name="E:\ZFW Dropbox\Adm ZFW\Pessoal\Engenharia de Software\2° Semestre\Programação Orientada a Objetos - Glauco\Prova_N2-II\GerenciadorDeContatos\GerenciadorDeContatosMaster" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,6 +78,14 @@
       <option name="presentableId" value="Default" />
       <updated>1685212190003</updated>
     </task>
+    <task id="LOCAL-00001" summary="Version01">
+      <created>1685212245326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685212245326</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -41,5 +98,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version01" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GerenciadorDeContatos$Main.ic" NAME="Main Coverage Results" MODIFIED="1685220892646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
